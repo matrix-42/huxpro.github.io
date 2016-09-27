@@ -1,5 +1,6 @@
 ---
 title: Hello World
+layout: post
 header-img: http://ww2.sinaimg.cn/large/638bd9aegw1f86csfreq8j21kw16on2z.jpg
 tags:
 		- Hexo 
